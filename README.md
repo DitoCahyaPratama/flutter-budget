@@ -1,4 +1,4 @@
-# flutter_budget_ui
+# flutter_budget
 
 A new Flutter project.
 
